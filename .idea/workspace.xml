@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05bc8a19-1d87-409e-a038-30c224bd3003" name="Changes" comment="Starting simple linear regression.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part2/Section 4 - Simple Linear Regression-20260511T174920Z-3-001/Section 4 - Simple Linear Regression/Python/simple_linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part2/Section 4 - Simple Linear Regression-20260511T174920Z-3-001/Section 4 - Simple Linear Regression/Python/simple_linear_regression.ipynb" afterDir="false" />
+    <list default="true" id="05bc8a19-1d87-409e-a038-30c224bd3003" name="Changes" comment="Simple linear regression session 1, chapter 49">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2/Section 5 - Multiple Linear Regression-20260511T174941Z-3-001/Section 5 - Multiple Linear Regression/Python/multiple_linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part2/Section 5 - Multiple Linear Regression-20260511T174941Z-3-001/Section 5 - Multiple Linear Regression/Python/multiple_linear_regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,21 +16,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sam-P96"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sam-P96&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sam-P96/Machine_Learning_Self_Study_2026.git",
-    "accountId": "23c481ef-b827-45fc-9405-9f19b39992ed"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sam-P96/Machine_Learning_Self_Study_2026.git&quot;,
+    &quot;accountId&quot;: &quot;23c481ef-b827-45fc-9405-9f19b39992ed&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3DaQgb4qKQS6mT7IjNs6yTkTkfK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,6 +40,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Samna/Desktop/Machine_Learning_Self_Study_2026"
@@ -68,11 +69,29 @@
       <option name="project" value="LOCAL" />
       <updated>1778522136148</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Simple linear regression session 1">
+      <option name="closed" value="true" />
+      <created>1778523826787</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778523826787</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Simple linear regression session 1, chapter 49">
+      <option name="closed" value="true" />
+      <created>1778523870523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778523870523</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starting simple linear regression." />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting simple linear regression." />
+    <MESSAGE value="Simple linear regression session 1" />
+    <MESSAGE value="Simple linear regression session 1, chapter 49" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple linear regression session 1, chapter 49" />
   </component>
 </project>
