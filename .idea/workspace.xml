@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05bc8a19-1d87-409e-a038-30c224bd3003" name="Changes" comment="" />
+    <list default="true" id="05bc8a19-1d87-409e-a038-30c224bd3003" name="Changes" comment="Starting simple linear regression.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2/Section 4 - Simple Linear Regression-20260511T174920Z-3-001/Section 4 - Simple Linear Regression/Python/simple_linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part2/Section 4 - Simple Linear Regression-20260511T174920Z-3-001/Section 4 - Simple Linear Regression/Python/simple_linear_regression.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sam-P96"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sam-P96/Machine_Learning_Self_Study_2026.git",
+    "accountId": "23c481ef-b827-45fc-9405-9f19b39992ed"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -45,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1778517812460</updated>
     </task>
+    <task id="LOCAL-00001" summary="Starting simple linear regression.">
+      <option name="closed" value="true" />
+      <created>1778522136148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778522136148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Starting simple linear regression." />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting simple linear regression." />
   </component>
 </project>
