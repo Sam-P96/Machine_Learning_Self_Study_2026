@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="05bc8a19-1d87-409e-a038-30c224bd3003" name="Changes" comment="Started multicollinearity regression">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part2/Section 5 - Multiple Linear Regression-20260511T174941Z-3-001/Section 5 - Multiple Linear Regression/Python/multiple_linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part2/Section 5 - Multiple Linear Regression-20260511T174941Z-3-001/Section 5 - Multiple Linear Regression/Python/multiple_linear_regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2/Section 6 - Polynomial Regression-20260511T175004Z-3-001/Section 6 - Polynomial Regression/Python/polynomial_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part2/Section 6 - Polynomial Regression-20260511T175004Z-3-001/Section 6 - Polynomial Regression/Python/polynomial_regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778531323919</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Started multicollinearity regression">
+      <option name="closed" value="true" />
+      <created>1778622681285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778622681285</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
