@@ -4,14 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05bc8a19-1d87-409e-a038-30c224bd3003" name="Changes" comment="Started multicollinearity regression">
+    <list default="true" id="05bc8a19-1d87-409e-a038-30c224bd3003" name="Changes" comment="Polynomial Regression and prediction">
+      <change afterPath="$PROJECT_DIR$/Part2/Notes_For_Learning.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part2/Section 6 - Polynomial Regression-20260511T175004Z-3-001/Section 6 - Polynomial Regression/Python/polynomial_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part2/Section 6 - Polynomial Regression-20260511T175004Z-3-001/Section 6 - Polynomial Regression/Python/polynomial_regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2/Section 8 - Decision Tree Regression-20260511T175048Z-3-001/Section 8 - Decision Tree Regression/Python/decision_tree_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part2/Section 8 - Decision Tree Regression-20260511T175048Z-3-001/Section 8 - Decision Tree Regression/Python/decision_tree_regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -109,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778622681285</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Polynomial Regression and prediction">
+      <option name="closed" value="true" />
+      <created>1778741937894</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778741937894</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -117,6 +133,7 @@
     <MESSAGE value="Simple linear regression session 1" />
     <MESSAGE value="Simple linear regression session 1, chapter 49" />
     <MESSAGE value="Started multicollinearity regression" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started multicollinearity regression" />
+    <MESSAGE value="Polynomial Regression and prediction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polynomial Regression and prediction" />
   </component>
 </project>
